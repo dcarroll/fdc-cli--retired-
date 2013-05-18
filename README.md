@@ -9,9 +9,12 @@ This should make forcedotcom a runnable command.
 Not many commands implemented just yet.
 
 	forcedotcom login <username> <password>
-	forcedotcom createtable <tablename>
+	forcedotcom createtable 
 	forcedotcom addfield
 	forcedotcom addfield <tablename>
+	forcedotcom showtables
+	forcedotcom showtables all
+	
 
 The addfield commands initiate a series of prompts that ask for
 
