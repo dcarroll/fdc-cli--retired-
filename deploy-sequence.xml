@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<env:Header>
+		<SessionHeader xmlns="http://soap.sforce.com/2006/04/metadata">
+			<sessionId>00DD0000000JxlU!AR0AQAMxT4ahUd7sJNUEEHN8W8EwUKmo1_1KopvAH02zdJM2wUMBZXVW93WB3_.UY_A7Kv__W4I.AJzJuLkBcNMgzWL_HMlw</sessionId>
+		</SessionHeader>
+	</env:Header>
+	<env:Body>
+		<m:deploy xmlns:m="http://soap.sforce.com/2006/04/metadata" xmlns:sobj="null">
+			<m:ZipFile>
+				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
+			</m:ZipFile>
+			<m:DeployOptions>
+				<m:allowMissingFiles>false</m:allowMissingFiles>
+				<m:autoUpdatePackage>false</m:autoUpdatePackage>
+				<m:checkOnly>false</m:checkOnly>
+				<m:ignoreWarnings>false</m:ignoreWarnings>
+				<m:performRetrieve>false</m:performRetrieve>
+				<m:purgeOnDelete>false</m:purgeOnDelete>
+				<m:rollbackOnError>true</m:rollbackOnError>
+				<m:runAllTests>false</m:runAllTests>
+				<m:singlePackage>false</m:singlePackage>
+			</m:DeployOptions>
+		</m:deploy>
+	</env:Body>
+</env:Envelope>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://soap.sforce.com/2006/04/metadata">
+	<soapenv:Body>
+		<deployResponse>
+			<result>
+				<done>false</done>
+				<id>09SD000000000rNMAQ</id>
+				<numberComponentErrors>0</numberComponentErrors>
+				<numberComponentsDeployed>0</numberComponentsDeployed>
+				<numberComponentsTotal>0</numberComponentsTotal>
+				<numberTestErrors>0</numberTestErrors>
+				<numberTestsCompleted>0</numberTestsCompleted>
+				<numberTestsTotal>0</numberTestsTotal>
+				<state>InProgress</state>
+				<stateDetailLastModifiedDate>2013-06-21T23:24:38.000Z</stateDetailLastModifiedDate>
+			</result>
+		</deployResponse>
+	</soapenv:Body>
+</soapenv:Envelope>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<env:Header>
+		<SessionHeader xmlns="http://soap.sforce.com/2006/04/metadata">
+			<sessionId>
+				00DD0000000JxlU!AR0AQAMxT4ahUd7sJNUEEHN8W8EwUKmo1_1KopvAH02zdJM2wUMBZXVW93WB3_.UY_A7Kv__W4I.AJzJuLkBcNMgzWL_HMlw
+			</sessionId>
+		</SessionHeader>
+	</env:Header>
+	<env:Body>
+		<m:checkStatus xmlns:m="http://soap.sforce.com/2006/04/metadata" xmlns:sobj="null">
+			<m:asyncProcessId>09SD000000000rNMAQ</m:asyncProcessId>
+		</m:checkStatus>
+	</env:Body>
+</env:Envelope>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://soap.sforce.com/2006/04/metadata">
+	<soapenv:Body>
+		<checkStatusResponse>
+			<result>
+				<done>true</done>
+				<id>09SD000000000rNMAQ</id>
+				<numberComponentErrors>0</numberComponentErrors>
+				<numberComponentsDeployed>3</numberComponentsDeployed>
+				<numberComponentsTotal>3</numberComponentsTotal>
+				<numberTestErrors>0</numberTestErrors>
+				<numberTestsCompleted>0</numberTestsCompleted>
+				<numberTestsTotal>0</numberTestsTotal>
+				<state>Completed</state>
+				<stateDetailLastModifiedDate>2013-06-21T23:24:42.000Z</stateDetailLastModifiedDate>
+			</result>
+		</checkStatusResponse>
+	</soapenv:Body>
+</soapenv:Envelope>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<env:Header>
+		<SessionHeader xmlns="http://soap.sforce.com/2006/04/metadata">
+			<sessionId>
+				00DD0000000JxlU!AR0AQAMxT4ahUd7sJNUEEHN8W8EwUKmo1_1KopvAH02zdJM2wUMBZXVW93WB3_.UY_A7Kv__W4I.AJzJuLkBcNMgzWL_HMlw
+			</sessionId>
+		</SessionHeader>
+	</env:Header>
+	<env:Body>
+		<m:checkDeployStatus xmlns:m="http://soap.sforce.com/2006/04/metadata" xmlns:sobj="null">
+			<m:asyncProcessId>09SD000000000rNMAQ</m:asyncProcessId>
+		</m:checkDeployStatus>
+	</env:Body>
+</env:Envelope>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://soap.sforce.com/2006/04/metadata">
+	<soapenv:Body>
+		<checkDeployStatusResponse>
+			<result>
+				<id>09SD000000000rNMAQ</id>
+				<messages>
+					<changed>false</changed>
+					<created>false</created>
+					<deleted>false</deleted>
+					<fileName>unpackaged/ConnectedApps/DeveloperPortalApp.ConnectedApp</fileName>
+					<fullName>DeveloperPortalApp</fullName>
+					<id>09HD000000000GQMAY</id>
+					<success>true</success>
+				</messages>
+				<messages>
+					<changed>false</changed>
+					<created>false</created>
+					<deleted>false</deleted>
+					<fileName>unpackaged/ConnectedApps/NodeCLI.ConnectedApp</fileName>
+					<fullName>NodeCLI</fullName>
+					<id>09HD000000000G6MAI</id>
+					<success>true</success>
+				</messages>
+				<messages>
+					<changed>false</changed>
+					<created>false</created>
+					<deleted>false</deleted>
+					<fileName>unpackaged/ConnectedApps/TestConn.ConnectedApp</fileName>
+					<fullName>TestConn</fullName>
+					<id>09HD000000000HiMAI</id>
+					<success>true</success>
+				</messages>
+				<messages>
+					<changed>true</changed>
+					<created>false</created>
+					<deleted>false</deleted>
+					<fileName>unpackaged/package.xml</fileName>
+					<fullName>package.xml</fullName>
+					<success>true</success>
+				</messages>
+				<runTestResult>
+					<numFailures>0</numFailures>
+					<numTestsRun>0</numTestsRun>
+					<totalTime>0.0</totalTime>
+				</runTestResult>
+				<success>true</success>
+			</result>
+		</checkDeployStatusResponse>
+	</soapenv:Body>
+</soapenv:Envelope>
+
+
+

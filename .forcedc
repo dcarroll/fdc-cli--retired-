@@ -1,6 +1,6 @@
 {
     "metadataServerUrl": [
-        "https://na15-api.salesforce.com/services/Soap/m/27.0/00Di0000000KpdA"
+        "https://dooder-dev-ed.my.salesforce.com/services/Soap/m/28.0/00Di0000000KpdA"
     ],
     "passwordExpired": [
         "false"
@@ -9,10 +9,10 @@
         "false"
     ],
     "serverUrl": [
-        "https://na15-api.salesforce.com/services/Soap/u/27.0/00Di0000000KpdA"
+        "https://dooder-dev-ed.my.salesforce.com/services/Soap/u/28.0/00Di0000000KpdA"
     ],
     "sessionId": [
-        "00Di0000000KpdA!ARQAQKTley_tK5m4cYOvAbUC3XlMKcawr7KlmCgI30ZhkLH6WJu6xbE0_wwqE1JSYe0_zhtxO1QQY6wvSSkJIpw1GXcZPAHw"
+        "00Di0000000KpdA!ARQAQOutnBEoHYeJTyuWMCGFdwzjb67cEQp46to9AFQDEVM9P8Y._r0qLFc.I_xdidmGzcbxqvnWb3.XfVp9ukY0tjlbmuJ0"
     ],
     "userId": [
         "005i0000000NsyKAAS"
